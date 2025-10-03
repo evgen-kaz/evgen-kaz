@@ -1,6 +1,5 @@
 ## Hi there 👋
 
----
 **Я QA Automation Engineer Java**
 
 <!--
