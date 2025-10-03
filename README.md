@@ -1,4 +1,4 @@
-## Hi there 👋
+## Привет, я Евгения 👋
 
 **Я QA Automation Engineer Java**
 
