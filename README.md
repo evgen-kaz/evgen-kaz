@@ -8,7 +8,7 @@ QA Automation Engineer
 ### Обо мне:
 
 * Инженер по контролю качества, специализирующийся на ручном тестировании и API. Более 5 лет опыта.
-* В настоящее время развиваю назвыки автоматизации.
+* В настоящее время развиваю навыки автоматизации.
 - - -
 ### Технологический стек:
 
@@ -30,7 +30,7 @@ QA Automation Engineer
 <p align=>  
 <a href="https://junit.org/junit5/"><img src='media/icons/junit.svg' width="50"/></a> 
 <a href="https://selenide.org/"><img src='media/icons/Selenide.svg' width="50"/></a> 
-<a href="https://selenide.org/"><img src='media/icons/rest_assured.png' width="50"/></a>
+<a href=""><img src='media/icons/rest_assured.png' width="50"/></a>
 </p>
 
 #### Инструменты
