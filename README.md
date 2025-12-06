@@ -5,7 +5,7 @@ QA Engineer (Automation, Java)
 
 ### Обо мне:
 
-* QA Engineer специализирующийся на ручном UI и API тестировании. Более 5 лет опыта.
+* QA Engineer специализирующийся на ручном UI и API тестировании. Более 3 лет опыта.
 * В настоящее время развиваю навыки автоматизации.
 - - -
 ### Технологический стек:
@@ -32,4 +32,4 @@ QA Engineer (Automation, Java)
 </p>
 
 ### Контакты:
-* Telegram: [@ev_kaz](https://t.me/@ev_kaz) 
+* Telegram: [@ev_kaz](https://t.me/ev_kaz) 
